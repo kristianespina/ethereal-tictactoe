@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+An implementation of the classic game _Tic Tac Toe_ in ReactJS.
+
 ## Preview
 
 ![Preview](docs/screenshot.png "Preview")
