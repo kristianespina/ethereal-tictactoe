@@ -38,6 +38,10 @@ npm start
 npm start
 ```
 
+### 3. Access the web app
+
+Using the browser, we can now access the tic tac toe web app at this url: `http://localhost:3000`
+
 ## Project Structure
 
 The repository is divided into two parts: the _frontend_ and the _backend_. In production setting, this is **NOT** recommended as we typically create separate repositories for the backend and the frontend. However, for this submission, to keep everything in one place, I've deliberately structured it this way.
