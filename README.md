@@ -66,6 +66,7 @@ Due to limited time, the following compromises were done:
 
 - **Real-Time Gameplay through Websockets** - Using websockets, it is possible to implement a realtime gameplay wherein two (2) players playing at different computers play against one another.
 - **UI** - The user interface is rather kept simple to save time prototyping
+- **Routes** - routes are specifically not used in both the frontend and the backend for simplicity. As usual, in production, this may not be the case.
 - **Dynamic Board Size** - Changes shall be done to the backend evaluator to support dynamic board size
 - **Move Verification** - The board is currently evaluated without verification if the received user input is valid. There are ways to mitigate this such as:
   - Instead of expecting **board state** as input, we may instead expect to receive an **array containing the moves** picked by the uers. In this way, it would be easier to validate the user input.
