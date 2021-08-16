@@ -1,5 +1,9 @@
 # Tic Tac Toe
 
+## Preview
+
+![Preview](docs/screenshot.png "Preview")
+
 ## Installation
 
 ### 1. Install the dependencies for the backend
