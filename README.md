@@ -50,7 +50,7 @@ The repository is divided into two parts: the _frontend_ and the _backend_. In p
 
 ### Front-end Structure
 
-The frontend `./src` directory contains three (4) folders namely:
+The frontend `./src` directory contains four (4) folders namely:
 
 - api - contains source files tor the communication with the rest server
 - components - contains reusable components
@@ -59,7 +59,7 @@ The frontend `./src` directory contains three (4) folders namely:
 
 ### Back-end Structure
 
-The backend contains two (4) folders namely:
+The backend contains four (4) folders namely:
 
 - build - contains the `.js` build files
 - types - contains the types (for typescript's use)
