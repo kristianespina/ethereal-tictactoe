@@ -69,7 +69,7 @@ Due to limited time, the following compromises were done:
 - **Routes** - routes are specifically not used in both the frontend and the backend for simplicity. As usual, in production, this may not be the case.
 - **Dynamic Board Size** - Changes shall be done to the backend evaluator to support dynamic board size
 - **Move Verification** - The board is currently evaluated without verification if the received user input is valid. There are ways to mitigate this such as:
-  - Instead of expecting **board state** as input, we may instead expect to receive an **array containing the moves** picked by the uers. In this way, it would be easier to validate the user input.
+  - Instead of expecting **board state** as input, we may instead expect to receive an **array containing the moves** picked by the users. In this way, it would be easier to validate the user input.
 
 ## Author
 
